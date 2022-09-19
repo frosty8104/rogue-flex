@@ -36,7 +36,7 @@ h3 {
 }
 p {
 	font-size: 0.875em;
-	line-height: 21px;
+	line-height: 1.3;
 }
 
 /*The widths are in a percentage!*/
@@ -68,7 +68,7 @@ header nav ul li {
 	text-align: center;
 	text-transform: uppercase;
 	font-weight: 700;
-	font-size: 14px;
+	font-size: 0.875em;
 	list-style: none;
 }
 header nav ul li a {
@@ -101,8 +101,8 @@ header nav ul li a {
 	color: #77a466;
 }
 .main-title p {
-	font-size: 16px;
-	line-height: 25px;
+	font-size: 1em;
+	line-height: 1.56;
 }
 
 .section-one,
@@ -138,12 +138,12 @@ header nav ul li a {
 }
 .reviews {
 	color: #333;
-	font-size: 16px;
-	line-height: 21px;
+	font-size: 1em;
+	line-height: 1.56;
 }
 .address {
-	font-size: 16px;
-	line-height: 24px;
+	font-size: 1em;
+	line-height: 1.5;
 }
 
 /*The widths are in a percentage!*/
@@ -159,7 +159,7 @@ footer span {
 	font-family: 'Galada', cursive;
 	text-transform: lowercase;
 	color: #77a466;
-	font-size: 14px;
+	font-size: 0.875;
 }
 @media all and (min-width: 768px) {
 
