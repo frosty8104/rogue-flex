@@ -47,6 +47,7 @@ header {
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
+	text-align: center;
 	width: 100%;
 }
 header h1 {
@@ -59,7 +60,6 @@ header h1 span {
 	color: #77a466;
 }
 header nav {
-	display: flex;
 	width: 50%;
 }
 header nav ul {
@@ -164,7 +164,7 @@ footer span {
 	}
 	header h1 {
 		border-bottom: none;
-		padding: 0;
+		padding: 2% 0 2% 0;
 		text-align: left;
 		width: 30%;
 	}
