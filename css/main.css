@@ -43,7 +43,7 @@ ul {
 /*The widths are in a percentage!*/
 header {
 	align-items: center;
-	border-bottom: 3px #77a466;
+	border-bottom: 3px solid #77a466;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: center;
@@ -52,8 +52,7 @@ header {
 }
 header h1 {
 	border-bottom: 3px solid #77a466;
-	margin: 0;
-	padding: 38px 20px 20px 20px;
+	padding: 20px;
 	width: 100%;
 }
 header h1 span {
@@ -61,10 +60,6 @@ header h1 span {
 }
 header nav {
 	width: 50%;
-}
-header nav ul {
-margin: 0;
-padding: 0;
 }
 header nav ul li {
 	font-weight: 700;
@@ -98,7 +93,6 @@ header nav ul li a {
 .main-title p {
 	font-size: 1em;
 	line-height: 1.56;
-	padding: 0;
 }
 
 .section-one,
