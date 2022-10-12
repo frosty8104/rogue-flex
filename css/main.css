@@ -39,7 +39,6 @@ p {
 ul {
 	margin: 0;
 }
-
 /*The widths are in a percentage!*/
 header {
 	align-items: center;
@@ -60,6 +59,9 @@ header h1 span {
 }
 header nav {
 	width: 50%;
+}
+header nav ul {
+	padding: 0;
 }
 header nav ul li {
 	font-weight: 700;
